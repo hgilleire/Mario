@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KoopaTrooper()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ KoopaTrooper\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=boolean\ onGround()
+comment3.params=speed
+comment3.target=void\ moveRight(int)
+comment4.params=speed
+comment4.target=void\ moveLeft(int)
+comment5.params=
+comment5.target=void\ turn()
+comment6.params=
+comment6.target=void\ hitObstacle()
+comment7.params=
+comment7.target=boolean\ atWorldEdge()
+numComments=8

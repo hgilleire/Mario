@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Mushroom()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=speed
+comment2.target=void\ moveRight(int)
+comment3.params=speed
+comment3.target=void\ moveLeft(int)
+comment4.params=
+comment4.target=void\ turn()
+comment5.params=
+comment5.target=boolean\ onGround()
+comment6.params=
+comment6.target=void\ fall()
+comment7.params=
+comment7.target=void\ checkFall()
+comment8.params=
+comment8.target=void\ hitObstacle()
+comment9.params=
+comment9.target=boolean\ atWorldEdge()
+numComments=10
